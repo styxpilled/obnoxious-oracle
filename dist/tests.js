@@ -3,7 +3,7 @@ exports.__esModule = true;
 var prophecies_1 = require("./prophecies");
 function assert(condition, message) {
     if (!condition) {
-        throw new Error(message || "Assertion failed");
+        throw new Error(message || 'Assertion failed');
     }
 }
 function it(message, test) {
