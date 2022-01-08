@@ -1,6 +1,6 @@
 {
   "name": "obnoxious-oracle",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "My funny messages.",
   "main": "dist/prophecies.js",
   "types": "dist/prophecies.d.ts",
