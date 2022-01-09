@@ -6,8 +6,13 @@
   "types": "dist/prophecies.d.ts",
   "scripts": {
     "build": "tsc",
-    "test": "tsc && node dist/tests.js"
+    "test": "tsc && node dist/tests.js",
+    "install": "npm run build"
   },
   "author": "styxpilled",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/styxpilled/obnoxious-oracle.git"
+  }
 }

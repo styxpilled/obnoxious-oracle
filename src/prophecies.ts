@@ -5,7 +5,7 @@
  * ```
  * import { foretell } from 'obnoxious-oracle';
  * let test = foretell();
- * console.log(test); // "WON'T WORK ON IE8"
+ * console.log(test); // => "WON'T WORK ON IE8"
  * ```
  * @returns string
  */
@@ -86,4 +86,7 @@ export const PROPHECIES: string[] = [
     "YOU'RE DESERVING OF LOVE.",
     "I'M SORRY FOR EVERYTHING THAT HAS HAPPENED TO YOU",
     "IT'S GOING TO BE OK.",
+    "NOW STARING TOM HOLLAND AND CHRIS PRATT",
+    "IF YOU STAN MUSK YOU'RE CRINGE AND FATHERLESS",
+    
 ]
