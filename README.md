@@ -16,11 +16,17 @@ console.log(test); // => "WON'T WORK ON IE8"
 
 ## INSTALLATION
 
-`npm i obnoxious-oracle`
+```bash
+npm i obnoxious-oracle
+```
+
 OR
-`git clone https://github.com/styxpilled/obnoxious-oracle`
-`cd obnoxious-oracle`
-`npm run build`
+
+```bash
+git clone https://github.com/styxpilled/obnoxious-oracle
+cd obnoxious-oracle
+npm run build
+```
 
 ---
 
